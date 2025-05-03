@@ -10,7 +10,9 @@ c = 1.34
 print(c)
 print("type of a",type(c))
 
-d = Hi
+d = "Hi"
 print(d)
 print("type of a",type(d))
 
+n = input('Whats your name')
+print("Whatsup,", n," How R U")
