@@ -1,5 +1,5 @@
-num = 5
+num = -4
 if num > 0:
   print("Positive")
 else: 
- print("Negative")
+  print("Negative")
