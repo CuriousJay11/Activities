@@ -1,0 +1,7 @@
+n = int(input('Enter number of times to run: '))
+
+sum = 0
+
+for i in range(n):
+    print("the sum is", sum)
+    sum = sum + 1
